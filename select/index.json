@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Villain",
+  "base_artist": "Empty old City",
+  "createdAt": "2026-02-24T05:14:18.331512Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Villain",
+      "artist": "Lily Rose",
+      "has_synced": true,
+      "path": "select/01_Villain_Lily_Rose.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Villain",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/02_Villain_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hero v.s. Villain (Epilogue)",
+      "artist": "MF DOOM feat. E. Mason",
+      "has_synced": true,
+      "path": "select/03_Hero_v.s._Villain_(Epilogue)_MF_DOOM_feat._E._Mason.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hero Vs Villain (Epilogue)",
+      "artist": "MF DOOM",
+      "has_synced": true,
+      "path": "select/04_Hero_Vs_Villain_(Epilogue)_MF_DOOM.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Villain",
+      "artist": "Oliver Tree",
+      "has_synced": false,
+      "path": "select/05_The_Villain_Oliver_Tree.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Villain",
+      "artist": "Austra",
+      "has_synced": true,
+      "path": "select/06_The_Villain_Austra.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Villain",
+      "artist": "CocoRosie",
+      "has_synced": false,
+      "path": "select/07_Villain_CocoRosie.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Everywhere (Witchdoctor Feat. Deacon The Villain)",
+      "artist": "Cunninlynguists",
+      "has_synced": false,
+      "path": "select/08_Everywhere_(Witchdoctor_Feat._Deacon_The_Villain)_Cunninlynguists.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I'm Your Villain",
+      "artist": "Franz Ferdinand",
+      "has_synced": true,
+      "path": "select/09_I'm_Your_Villain_Franz_Ferdinand.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Still With Me (Jermiside Feat. Deacon The Villain) (Remix)",
+      "artist": "Cunninlynguists",
+      "has_synced": false,
+      "path": "select/10_Still_With_Me_(Jermiside_Feat._Deacon_The_Villain)_(Remix)_Cunninlynguists.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Vaudeville Villain",
+      "artist": "Viktor Vaughn",
+      "has_synced": true,
+      "path": "select/11_Vaudeville_Villain_Viktor_Vaughn.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Yaudeville Villain",
+      "artist": "Viktor Vaughn",
+      "has_synced": true,
+      "path": "select/12_Yaudeville_Villain_Viktor_Vaughn.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Content To Play Villain",
+      "artist": "Dälek",
+      "has_synced": false,
+      "path": "select/13_Content_To_Play_Villain_Dälek.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I'm The Villain In My Own Story - Commentary",
+      "artist": "Crazy Ex-Girlfriend Cast",
+      "has_synced": false,
+      "path": "select/14_I'm_The_Villain_In_My_Own_Story_-_Commentary_Crazy_Ex-Girlfriend_Cast.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I'm Your Villain",
+      "artist": "Franz Ferdinand",
+      "has_synced": true,
+      "path": "select/15_I'm_Your_Villain_Franz_Ferdinand.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Deadly Verses [feat. Tha Villain]",
+      "artist": "Gangsta Pat",
+      "has_synced": false,
+      "path": "select/16_Deadly_Verses_[feat._Tha_Villain]_Gangsta_Pat.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Villain",
+      "artist": "Skarlett Riot",
+      "has_synced": true,
+      "path": "select/17_Villain_Skarlett_Riot.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Villain",
+      "artist": "Empty old City",
+      "has_synced": false,
+      "path": "select/pl_01_Villain_Empty_old_City.txt"
+    }
+  ]
+}
